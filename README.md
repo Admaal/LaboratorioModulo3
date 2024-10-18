@@ -1,11 +1,15 @@
-# typescript-sandbox
+# Grupos Musicales en TypeScript
 
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
+Este proyecto está diseñado para mostrar información sobre varios grupos musicales utilizando TypeScript. La aplicación utiliza una interfaz para definir la estructura de los datos y presenta la información de una manera estilizada en la consola del navegador.
 
-Pasos:
+## Descripción
 
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+El objetivo de este proyecto es gestionar y mostrar información sobre diferentes grupos musicales. Se han definido varios grupos con sus atributos, como el nombre del cantante, el año de fundación, su estado activo y el género musical. Además, se utiliza CSS para estilizar la salida en la consola.
+
+## Tecnologías Utilizadas
+
+- **TypeScript**: Para la definición de tipos y la gestión de datos.
+- **JavaScript**: Para la ejecución en la consola del navegador.
+- **HTML/CSS**: Para la estilización de la salida en la consola.
+
+
