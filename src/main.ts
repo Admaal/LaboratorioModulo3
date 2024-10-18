@@ -9,7 +9,7 @@ interface GrupoMusical {
 }
 
 // Estilos
-const estilo = `background-color: green; font-weith: bold; font-size: 18px`;
+const estilo = `background-color: green; font-weigth: bold; font-size: 18px`;
 
 // Declarar variables
 const popRock: string = "🎵 Pop Rock";
